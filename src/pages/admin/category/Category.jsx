@@ -62,7 +62,7 @@ const Category = () => {
               <div className="d-flex justify-content-between align-items-center mb-3">
                 <h2 className="mb-0">Category List</h2>
                 <Link to="/admin/category/add">
-                  <button className="btn btn-primary">Add Category</button>
+                  <button className="btn btn-primary">Ajay Category</button>
                 </Link>
               </div>
 
