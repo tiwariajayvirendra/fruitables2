@@ -157,13 +157,13 @@ const Footer = () => {
               {/*/*** This template is free as long as you keep the below author’s credit link/attribution link/backlink. *** /*/}
               {/*/*** If you'd like to use the template without the below author’s credit link/attribution link/backlink, *** /*/}
               {/*/*** you can purchase the Credit Removal License from "https://htmlcodex.com/credit-removal". *** /*/}
-              Designed By{" "}
-              <a className="border-bottom" href="https://htmlcodex.com">
-                HTML Codex
+              Design Idea from{" "}
+              <a className="border-bottom" href="#">
+              HTML Codex
               </a>{" "}
               Distributed By{" "}
-              <a className="border-bottom" href="https://themewagon.com">
-                ThemeWagon
+              <a className="border-bottom" href="#">
+                Tiwari Ajay Virendra
               </a>
             </div>
           </div>
